@@ -1,0 +1,12 @@
+.navbar-nav .nav-link:hover{
+background-color: black;
+color: white !important;
+font-weight: bold;
+font-size: larger;
+}
+
+.navbar-brand img{
+    height: 160px;
+    width: 200px;
+    
+}
